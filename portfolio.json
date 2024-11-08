@@ -1,0 +1,28 @@
+[
+  {
+    "dni": "43609195",
+    "nombre": "Mariano",
+    "apellido": "Oliva",
+    "edad": 23,
+    "estudios": [
+      {
+        "titulo": "Licenciatura en Informática",
+        "institucion": "Universidad Nacional",
+        "anioFinalizacion": 2023
+      }
+    ]
+  },
+  {
+    "dni": "87654321",
+    "nombre": "Ana",
+    "apellido": "Gómez",
+    "edad": 25,
+    "estudios": [
+      {
+        "titulo": "Técnico en Sistemas",
+        "institucion": "Instituto Tecnológico",
+        "anioFinalizacion": 2021
+      }
+    ]
+  }
+]
